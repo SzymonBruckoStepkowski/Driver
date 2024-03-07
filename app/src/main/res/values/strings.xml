@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Driver</string>
+
+    <!-- Splash screen -->
+    <string name="splash_image_description">Logo</string>
+
+    <!-- Login screen -->
+    <string name="login_text">Login</string>
+    <string name="password_txt">Password</string>
+    <string name="login_btn_txt">Login</string>
+    <string name="wrong_credentials_error">Wrong credentials</string>
+
+    <!-- Main -->
+    <string name="home_text">Home</string>
+    <string name="reports_text">Reports</string>
+    <string name="profile_text">Profile</string>
+    <string name="logout_text">Logout</string>
+
+    <!-- Home screen -->
+    <string name="home_screen_title">Home</string>
+
+    <string name="home_vehicle_title">Vehicle</string>
+    <string name="home_trailer_title">Trailer</string>
+    <string name="home_number_txt">Number: %s</string>
+
+    <string name="home_loading_btn_text">Loading</string>
+    <string name="home_unloading_btn_text">Unloading</string>
+    <string name="home_resume_btn_text">Resume</string>
+    <string name="home_pause_btn_text">Pause</string>
+
+    <string name="home_status_text">Status:</string>
+
+    <!-- Reports screen -->
+    <string name="reports_screen_title">History</string>
+    <string name="reports_screen_date_header">Date</string>
+    <string name="reports_screen_locality_header">Locality</string>
+    <string name="reports_screen_type_header">Type</string>
+
+    <!-- Report data structure -->
+    <string name="unknown_type_label">Unknown</string>
+    <string name="loading_type_label">Loading</string>
+    <string name="unloading_type_label">Unloading</string>
+    <string name="driving_type_label">Driving</string>
+    <string name="pause_type_label">Pause</string>
+
+    <!-- Vehicle data structure -->
+    <string name="unknown_vehicle_label">Unknown</string>
+    <string name="truck_vehicle_label">Truck</string>
+    <string name="trailer_vehicle_label">Trailer</string>
+
+    <!-- AddEdit screen -->
+    <string name="report_item_title">Report item</string>
+
+    <string name="report_id_text">Report ID: %s</string>
+    <string name="driver_id_text">Driver ID: %s</string>
+    <string name="vehicle_text">Vehicle number: %s</string>
+    <string name="date_text">Date: %s</string>
+    <string name="created_date_text">Date: %s</string>
+    <string name="last_location_text">Last location:</string>
+    <string name="loc_longitude_text">Longitude: %s</string>
+    <string name="loc_latitude_text">Latitude: %s</string>
+    <string name="loc_city_text">-> %s</string>
+    <string name="no_location_text">None</string>
+    <string name="event_type_text">Type:</string>
+
+    <string name="validation_blank_fields_error">At least one field is empty.</string>
+    <string name="saving_error">Cannot add/edit report.</string>
+
+    <string name="event_type_label">Event Type</string>
+    <string name="counter_value_label">Counter Value</string>
+    <string name="number_plate_label">Number Plate</string>
+    <string name="attachments_label">attachments</string>
+    <string name="attachment_chooser_text">Add image/pdf</string>
+
+    <string name="popup_enable_location">Do you want to enable the location feature\nto get your coordinates?</string>
+    <string name="popup_add_report">Are you sure to add a new report?</string>
+    <string name="popup_edit_report">Are you sure to save the changes?</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="ok_text">OK</string>
+
+    <!-- Profile screen -->
+    <string name="profile_screen_title">Profile details</string>
+    <string name="profile_username_text">Username: %s</string>
+
+    <string name="user_update_popup_msg">Are you sure to save the changes?</string>
+    <string name="user_update_error">Cannot update the user data.</string>
+
+    <!-- General -->
+    <string name="error_txt">Error</string>
+    <string name="save_btn_text">Save</string>
+    <string name="not_applicable_abbr">N/A</string>
+</resources>
