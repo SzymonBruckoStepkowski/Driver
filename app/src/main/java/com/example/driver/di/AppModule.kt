@@ -11,10 +11,10 @@ import com.example.driver.common.Constants.PREFERENCE_NAME
 import com.example.driver.data.helper.AccountLogoutHelperImpl
 import com.example.driver.data.provider.*
 import com.example.driver.data.remote.DriverApi
-import com.example.driver.data.repository.LoginRepositoryImpl
-import com.example.driver.data.repository.ReportRepositoryImpl
-import com.example.driver.data.repository.UserRepositoryImpl
-import com.example.driver.data.repository.VehicleRepositoryImpl
+import com.example.driver.data.repository.mock.LoginRepositoryImpl // mock
+import com.example.driver.data.repository.mock.ReportRepositoryImpl // mock
+import com.example.driver.data.repository.mock.UserRepositoryImpl // mock
+import com.example.driver.data.repository.mock.VehicleRepositoryImpl // mock
 import com.example.driver.domain.helper.AccountLogoutHelper
 import com.example.driver.domain.provider.*
 import com.example.driver.domain.repository.LoginRepository
